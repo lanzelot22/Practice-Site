@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: bold;
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  color: #66BFBF;
+
+}
+
+h2 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  margin:0;
+}
+
+h3 {
+  font-family: 'Abril Fatface', cursive;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+   border-style: none;
+   border-top: 7px dotted grey;
+   width: 5%;
+   margin: 100px auto;
+}
+
+.top-container {
+  background-color: #FBE0C4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background: #C9E4C5;
+}
+
+.bottom-container {
+  background-color: #C1AC95;
+  padding:50px;
+}
+
+.bottom-container a {
+  margin: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.profile-pic {
+  margin-top: 80px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.skillpic1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skillpic2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.description {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.copyright {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.mountain {
+  position: relative;
+  top: 10px;
+}
+
+.skills {
+  margin: 100px auto;
+}
+
+.skill2-description {
+  padding-bottom: 50px;
+}
+
+.contact-me {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.btn {
+  position: relative;
+  background-color: blue;
+  top: 30px;
+  margin-top: 30px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  background-color: #11999E;
+  color: white;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #C1AC95;
+}
+
+
+.footer-link {
+  text-decoration: none;
+}
+
+.hello {
+  padding-top: 70px;
+}
